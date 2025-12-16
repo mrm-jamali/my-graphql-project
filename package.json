@@ -2,6 +2,7 @@
   "name": "bloggraph",
   "version": "0.1.0",
   "private": true,
+   "homepage": "https://mrm-jamali.github.io/bloggraph",
   "dependencies": {
     "@apollo/client": "^4.0.9",
     "@emotion/react": "^11.14.0",
