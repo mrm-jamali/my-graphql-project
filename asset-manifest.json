@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-graphql-project/static/css/main.24060373.css",
-    "main.js": "/my-graphql-project/static/js/main.fd608407.js",
+    "main.js": "/my-graphql-project/static/js/main.32e9cac8.js",
     "static/media/YekanBakh-Light.eot": "/my-graphql-project/static/media/YekanBakh-Light.c704e7557a4700db35db.eot",
     "static/media/YekanBakh-Light.ttf": "/my-graphql-project/static/media/YekanBakh-Light.a54803085d1743da27ec.ttf",
     "static/media/YekanBakh-Regular.eot": "/my-graphql-project/static/media/YekanBakh-Regular.1a1854606a05eb293122.eot",
@@ -23,10 +23,10 @@
     "index.html": "/my-graphql-project/index.html",
     "static/media/index.cjs": "/my-graphql-project/static/media/index.f6d03137e8c9dd0de04c.cjs",
     "main.24060373.css.map": "/my-graphql-project/static/css/main.24060373.css.map",
-    "main.fd608407.js.map": "/my-graphql-project/static/js/main.fd608407.js.map"
+    "main.32e9cac8.js.map": "/my-graphql-project/static/js/main.32e9cac8.js.map"
   },
   "entrypoints": [
     "static/css/main.24060373.css",
-    "static/js/main.fd608407.js"
+    "static/js/main.32e9cac8.js"
   ]
 }
